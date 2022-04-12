@@ -1,0 +1,8 @@
+numpy
+geopandas
+fiona
+shapely
+GDAL
+pandas 
+matplotlib
+Rasterstats
